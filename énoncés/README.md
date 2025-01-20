@@ -25,5 +25,5 @@ sera développé en 4 phases, chacune ayant des objectifs différents.
 
 ## Installation
 
-- [Repo](https://github.com/glo2003/H24-Restalo)
+- [Repo](https://github.com/glo2003/H25/tree/master/H25-SplitUL)
 - [Capsule vidéo](https://ulaval.zoom.us/rec/share/Ho1CQCqtTJ4Y71qCHvcPMcS6UF7-R1JMz5Satvve2-TrmOnLgIEUQTO88XC3XzUu.yyaUjac4JqxIQnLr) (Passcode: `v6A.rte7`)
