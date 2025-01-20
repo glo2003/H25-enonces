@@ -14,7 +14,7 @@
 
 ## Requis de processus
 
-- [Planification](processus/planification)
+- [Planification](processus/planification.md)
 - [Conventions Git](processus/git.md)
 
 ## Requis techniques
