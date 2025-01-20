@@ -33,4 +33,4 @@ sera développé en 4 phases, chacune ayant des objectifs différents.
 Quelques points à noter pour la correction :
 
 - La correction des TPs est faite de manière automatisée. Assurez-vous de respecter les spécifications à la lettre.
-- Assurez-vous que les messages d'erreur sont exactement les mêmes que ceux demandés dans les énoncés.
+- Assurez-vous que les messages d'erreur soient exactement les mêmes que ceux demandés dans les énoncés.
