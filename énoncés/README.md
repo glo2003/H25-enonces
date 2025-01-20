@@ -1,4 +1,4 @@
-# Projet GLO2003 : Restalo
+# Projet GLO2003 : SplitUL
 
 Bienvenue chez SplitUL, une compagnie spécialisée en logiciels de gestion. 
 Vous et votre équipe aurez la tâche de développer un tout nouveau logiciel 
