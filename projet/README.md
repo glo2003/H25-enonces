@@ -1,9 +1,10 @@
 # Projet GLO2003 : SplitUL
 
-Bienvenue chez SplitUL, une compagnie spécialisée en logiciels de gestion. 
+Bienvenue chez SplitUL, une compagnie spécialisée en logiciels de gestion quotidienne. 
 Vous et votre équipe aurez la tâche de développer un tout nouveau logiciel 
-pour la gestion des factures locatives d'appartements! Ce logiciel, appelé SplitUL, 
-sera développé en 4 phases, chacune ayant des objectifs différents.
+pour la gestion et le partage des factures entre un groupe d'individus, 
+par exemple les colocataires d'un appartement! Ce logiciel, appelé SplitUL, 
+sera développé en 4 itérations, chacune ayant des objectifs différents.
 
 ## Objectifs
 
