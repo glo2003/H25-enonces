@@ -7,7 +7,10 @@
 
 ## Requis fonctionnels
 
-
+- [Créer un groupe](fonctionnels/1.creer-groupe.md)
+- [Obtenir un groupe](fonctionnels/2.obtenir-groupe.md)
+- [Lister des groupes](fonctionnels/3.lister-groupes.md)
+- [Supprimer un groupe](fonctionnels/4.supprimer-groupe.md)
 
 ## Requis de processus
 
