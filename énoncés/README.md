@@ -21,10 +21,7 @@ sera développé en 4 phases, chacune ayant des objectifs différents.
 
 ## Phases
 
-- [TP1](https://github.com/glo2003/H25/énoncés/TP1)
-- [TP2](https://github.com/glo2003/H25/énoncés/TP2)
-- [TP3](https://github.com/glo2003/H25/énoncés/TP3)
-- [TP4](https://github.com/glo2003/H25/énoncés/TP4)
+- [TP1]([https://github.com/glo2003/H25/énoncés/TP1](https://github.com/glo2003/H25/tree/master/%C3%A9nonc%C3%A9s/TP1))
 
 ## Installation
 
