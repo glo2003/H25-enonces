@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Gradle
+.gradle/
+build/
+
+# Maven
+target/
+
+# Java class files
+*.class
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+*.swp
+
+# JetBrains specific files
+.idea/
+out/
+
+# IntelliJ IDEA project-specific settings
+*.iws
