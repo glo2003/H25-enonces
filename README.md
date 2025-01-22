@@ -22,14 +22,14 @@ sera développé en 4 itérations, chacune ayant des objectifs différents.
 
 ## Itérations
 
-- [TP1](https://github.com/glo2003/H25/tree/master/projet/%C3%A9nonc%C3%A9s/TP1)
+- [TP1](https://github.com/glo2003/H25/tree/master/%C3%A9nonc%C3%A9s/TP1)
 - TP2
 - TP3
 - TP4
 
 ## Installation
 
-- [Starter Repo](https://github.com/glo2003/H25/tree/master/projet/H25-SplitUL)
+- [Starter Repo](https://github.com/glo2003/H25-SplitUL)
 - [Capsule vidéo](https://ulaval.zoom.us/rec/share/Ho1CQCqtTJ4Y71qCHvcPMcS6UF7-R1JMz5Satvve2-TrmOnLgIEUQTO88XC3XzUu.yyaUjac4JqxIQnLr) (Passcode: `v6A.rte7`)
 
 ## Correction
