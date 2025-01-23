@@ -20,6 +20,7 @@
 ## Requis techniques
 
 - [Clean Code](techniques/cleancode.md)
+- [Déclaration utilisation IA]()
 
 ## Critère d'évaluation et pondération
 
