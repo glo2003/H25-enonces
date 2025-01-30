@@ -19,8 +19,8 @@
 
 ## Requis techniques
 
-- [Clean Code](techniques/cleancode.md)
-- [Déclaration utilisation IA]()
+- [Clean Code](techniques/clean-code.md)
+- [Déclaration utilisation IA](techniques/declaration-IA.md)
 
 ## Restrictions importantes
 
