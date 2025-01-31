@@ -18,7 +18,7 @@ Certaines configurations standards sont disponibles sur le Web, mais vous **deve
 
 ## Nommage des commits
 
-Vous devez suivre une convention pour l'écriture et le contenu des commits. Vous pouvez vous inspirer de pratiques populaires existantes si vous le désirez. On vous demande de **décrire votre convention de commits** dans le fichier `exerices/tp1.md`. Assurez-vous d'**indiquer vos sources** si vous vous inspirez d'ailleurs. On cherche notamment à savoir :
+Vous devez suivre une convention pour l'écriture et le contenu des commits. Vous pouvez vous inspirer de pratiques populaires existantes si vous le désirez. On vous demande de **décrire votre convention de commits** dans le fichier `exercices/tp1.md`. Assurez-vous d'**indiquer vos sources** si vous vous inspirez d'ailleurs. On cherche notamment à savoir :
 
 1. Comment nommer les commits selon leur type/section/grosseur/acteur/etc.
 2. Quoi et quand commiter?
