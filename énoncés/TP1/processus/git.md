@@ -27,7 +27,7 @@ Vous n'êtes pas obligé de suivre un standard, mais vos méthodes *doivent* êt
 
 ## Stratégie de branchage
 
-Vous devez établir une convention pour la gestion et le nommage des branches. Vous pouvez vous inspirer de pratiques populaires existantes si vous le désirez. On vous demande de **décrire votre stratégie de branchage** dans le fichier `exerices/tp1.md`. Assurez-vous d'**indiquer vos sources** si vous vous inspirez d'ailleurs. On cherche notamment à savoir :
+Vous devez établir une convention pour la gestion et le nommage des branches. Vous pouvez vous inspirer de pratiques populaires existantes si vous le désirez. On vous demande de **décrire votre stratégie de branchage** dans le fichier `exercices/tp1.md`. Assurez-vous d'**indiquer vos sources** si vous vous inspirez d'ailleurs. On cherche notamment à savoir :
 
 1. Quelles sont les branches *de base* (qui sont communes et qui existeront toujours) et quels sont leurs rôles (chacune)?
 2. Quelle branche est *LA* branche principale (contenant le code officiellement intégré et pouvant être remis)?
