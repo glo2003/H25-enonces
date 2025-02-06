@@ -1,4 +1,4 @@
-# Projet GLO2003 : SplitUL - TP1
+# Projet GLO2003 : SplitUL - TP2
 
 - **📅 Fin: 4 mars 2025 à 23:59**
 - **Tag: `remise2`**
