@@ -18,4 +18,4 @@ Donc, en résumé, vous devrez respecter les critères suivants :
 - Éviter les commentaires inutiles et le code inutilisé
 - Éviter les valeurs *magiques* (sans nom) et préférer des constantes ou des enums lorsque nécessaire
 - Bonne utilisation des outils et de la librairie standard (ne pas réinventer la roue)
-- Taille et contenu des classes et des fonctions minimal
+- Taille et contenu des classes et des fonctions minimales
