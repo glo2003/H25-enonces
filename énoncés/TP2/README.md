@@ -9,7 +9,7 @@
 ## Requis fonctionnels (features)
 
 - [Ajouter un membre au groupe](fonctionnels/5.ajouter-membre-groupe.md)
-- [Ajouter une dépense](fonctionnels/6.ajouter-depense-groupe)
+- [Ajouter une dépense](fonctionnels/6.ajouter-depense-groupe.md)
 - [Lister les membres d'un groupe](fonctionnels/7.lister-membres-groupe.md)
 
 ## Requis de processus
