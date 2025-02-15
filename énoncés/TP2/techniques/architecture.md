@@ -27,6 +27,8 @@ Finalement, assurez-vous que les noms des packages suivent les conventions Java 
 
 ## Diagrammes
 
+**Veuillez répondre dans le fichier exercices/tp2.md dans votre repo.**
+
 Afin de bien visualiser les dépendances entre vos classes et vos couches, vous devez 
 fournir un diagramme d'architecture simplifié. Pour ce faire, voici quelques directives :
 
