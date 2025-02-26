@@ -2,7 +2,7 @@
 
 # Rétrospective sur le processus
 
-**Veuillez répondre dans le fichier `exercices/tp2.md`** dans votre repo.
+Veuillez répondre aux questions dans votre fichier `exercices/tp2.md`.
 
 Déjà une itération de faite! Vous avez planifié votre travail avec des issues et intégré 
 vos changements par les pull requests. Cependant, vous avez surement eu quelques 
