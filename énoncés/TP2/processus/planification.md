@@ -5,13 +5,13 @@
 L'ensemble de votre travail doit être documenté et planifié sur Github en respectant les meilleures pratiques de développement et de processus logiciel. Vous devez donc créer et maintenir à jour :
 
 1. Un [**Github Project**](#github-project)
-2. Un [**milestone**](#milestone) pour le TP
+2. Un [**milestone**](#milestone) pour le TP2
 3. Des [**issues**](#issues-min-3)
-4. Des [**pull Requests**](#pull-requests-min-3) (PR)
+4. Des [**Pull Requests**](#pull-requests-min-3) (PR)
 5. Un [**arbre de commits**](#arbre-de-commits)
 
 Afin de vous évaluer, vous devrez fournir des **captures d'écran** dans le fichier 
-d'exercice `exercices/tp2.md` correspondant au TP. Les critères d'évaluation sont 
+d'exercice `exercices/tp2.md`. Les critères d'évaluation sont 
 mentionnés dans chacune des sections.
 
 ## Github Project

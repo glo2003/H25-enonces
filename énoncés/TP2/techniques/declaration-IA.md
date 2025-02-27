@@ -2,6 +2,8 @@
 
 # Déclaration d'utilisation de l'IA
 
+**Obligatoire même si vous n'utilisez pas d'outils d'IA**
+
 Comme pour le TP1, vous devez ajouter une déclaration concernant l'utilisation de l'IA dans votre projet 
 dans le fichier `exercices/tp2.md`. Cette déclaration doit préciser les outils d'IA 
 que vous avez utilisés, la manière dont vous les avez intégrés dans votre travail et 

@@ -6,17 +6,18 @@ L'ensemble de votre travail doit être documenté et planifié sur Github en res
 développement et de processus logiciel. Vous devez donc créer et maintenir à jour :
 
 1. Un [**Github Project**](#github-project)
-2. Un [**milestone**](#milestone) pour le TP1
+2. Un [**milestone**](#milestone) pour le TP3
 3. Des [**issues**](#issues-min-3)
 4. Des [**Pull Requests**](#pull-requests-min-3) (PR)
 5. Un [**arbre de commits**](#arbre-de-commits)
 
-Afin de vous évaluer, vous devrez fournir des **captures d'écran** dans le fichier d'exercice `exercices/tp1.md`. 
-Les critères d'évaluation sont mentionnés dans chacune des sections.
+Afin de vous évaluer, vous devrez fournir des **captures d'écran** dans le fichier
+d'exercice `exercices/tp3.md`. Les critères d'évaluation sont
+mentionnés dans chacune des sections.
 
 ## Github Project
 
-> Si vous utilisez un autre planificateur de tâches, assurez-vous que les requis soient respectés de façon équivalente.
+>Si vous utilisez un autre planificateur de tâches, assurez-vous que les requis soient respectés de façon équivalente.
 
 **Critères**
 

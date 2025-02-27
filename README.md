@@ -22,9 +22,9 @@ sera développé en 4 itérations, chacune ayant des objectifs différents.
 
 ## Itérations
 
-- [TP1](https://github.com/glo2003/H25/tree/master/%C3%A9nonc%C3%A9s/TP1)
-- [TP2](https://github.com/glo2003/H25-enonces/tree/master/%C3%A9nonc%C3%A9s/TP2)
-- TP3
+- [TP1](énoncés/TP1)
+- [TP2](énoncés/TP2)
+- [TP3](énoncés/TP3)
 - TP4
 
 ## Installation
