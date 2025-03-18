@@ -1,6 +1,6 @@
 # Projet GLO2003 : SplitUL - TP3
 
-- **📅 Fin: 1 avril 2024 à 23h59**
+- **📅 Fin: 1 avril 2025 à 23h59**
 - **Tag: `remise3`**
 
 > Toutes les **questions** des exercices sont à répondre dans le fichier `exercices/tp3.md`, sauf lorsque spécifé autrement.
