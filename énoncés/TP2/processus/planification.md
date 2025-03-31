@@ -16,8 +16,6 @@ mentionnés dans chacune des sections.
 
 ## Github Project
 
->Si vous utilisez un autre planificateur de tâches, assurez-vous que les requis soient respectés de façon équivalente.
-
 **Critères**
 
 - Présentation claire des étapes du processus (en colonne style Kanban)
@@ -39,8 +37,6 @@ mentionnés dans chacune des sections.
 **1** comprenant le titre, la description, la date et les issues associées.
 
 ## Issues (min. 3)
-
-> Si vous utilisez un autre planificateur de tâches, assurez-vous que les requis soient respectés de façon équivalente.
 
 **Critères**
 
