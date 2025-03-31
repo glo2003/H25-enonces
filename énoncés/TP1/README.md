@@ -39,8 +39,8 @@ Pour fournir les screenshots nécessaires au projet, vous avez deux options :
 - Utilisez un service d'hébergement d'images qui génère des liens directs accessibles publiquement.
 - Incluez ces liens dans votre fichier markdown (exercices/tp1.md).
 
-2. Ajouter les images dans votre repository :
-- Placez les images directement dans votre repository (attention à la taille).
+2. Ajouter les images dans votre repository (pas avec un drag and drop) :
+- Placez les images directement dans un dossier dans votre repository (attention à la taille).
 - Utilisez des liens relatifs dans votre markdown (par exemple : ./images/abc.png).
 
 ## Critère d'évaluation et pondération
@@ -62,5 +62,5 @@ Pour fournir les screenshots nécessaires au projet, vous avez deux options :
 | Qualité    | 60%         | 100.00%  | 60.00%        |
 | Exercices  | 10%         | 100.00%  | 10.00%        |
 | Features   | 30%         | 100.00%  | 30.00%        |
-| Pénalités  | -10%        | 0.00%    | 0.00%         |
+| Pénalités  |             | 0.00%    | 0.00%         |
 | **TOTAL**  |             |          | **100.00%**   |
