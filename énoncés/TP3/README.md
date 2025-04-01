@@ -32,7 +32,6 @@ Pour assurer le bon fonctionnement des outils de correction automatisés, vous *
 
 - **La route GET `/health`** : Cette route est utilisée pour vérifier si votre serveur démarre correctement.
 - **L'URL `0.0.0.0`** : Cela rend votre serveur accessible sur un réseau local (notez que `localhost` ne fonctionne pas toujours).
-- **Le port `8080`** : Utilisez ce port pour votre serveur. Vous pourrez utiliser la variable d'environnement `PORT` à partir du TP3.
 - **Le fichier `Dockerfile`** : Ce fichier est essentiel pour démarrer votre serveur.
 
 ## Instructions pour les screenshots
@@ -68,5 +67,5 @@ Pour fournir les screenshots nécessaires au projet, vous avez deux options :
 | Qualité    | 70%         | 100.00%  | 70.00%        |
 | Exercices  | 10%         | 100.00%  | 10.00%        |
 | Features   | 20%         | 100.00%  | 20.00%        |
-| Pénalités  | -10%        | 0.00%    | 0.00%         |
+| Pénalités  |             | 0.00%    | 0.00%         |
 | **TOTAL**  |             |          | **100.00%**   |
