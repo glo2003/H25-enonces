@@ -17,8 +17,9 @@
 
 ## Requis techniques
 
-- [Architecture](techniques/architecture.md)
 - [Outils d'analyse](techniques/analyse.md)
+- [Architecture](techniques/architecture.md)
+- [Déclaration IA](techniques/declaration-IA.md)
 - [Outils de métrique](techniques/metriques.md)
 - [Sécurité](techniques/securite.md)
 
