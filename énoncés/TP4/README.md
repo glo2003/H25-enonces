@@ -37,7 +37,7 @@ Pour fournir les screenshots nécessaires au projet, vous avez deux options :
 
 1. Héberger les images sur un service externe :
 - Utilisez un service d'hébergement d'images qui génère des liens directs accessibles publiquement.
-- Incluez ces liens dans votre fichier markdown (exercices/tp1.md).
+- Incluez ces liens dans votre fichier markdown (exercices/tp4.md).
 
 2. Ajouter les images dans votre repository (pas avec un drag and drop) :
 - Placez les images directement dans un dossier dans votre repository (attention à la taille).
